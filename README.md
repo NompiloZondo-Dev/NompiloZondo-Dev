@@ -10,9 +10,9 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ## Technologies & Tools
 
-- **Languages**: Java, JavaScript, HTML, [other languages you work with]
+- **Languages**: Java, JavaScript, HTML
 - **Web Development**: React, Node.js, Express, Vite.
-- **Databases**: MySQL, PostgreSQL, MongoDB, [other databases]
+- **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, Render.
 - **Cloud**: Microsoft Azure, Heroku,Twilio , Firebase.
 - **Testing**: Postman
@@ -23,18 +23,18 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 Here are a few of my favorite projects:
 
-- **Property Management System**: Property maintenance system ,  is an online platform designed to streamline the process of reporting and resolving maintenance issues within properties. built with [technologies used]. [Link to the project or repository]
-- **School Website**: A [short description of the project] built using [technologies used]. [Link to the project or repository]
-- **Ordering App**: A [short description of the project] with a focus on [special feature/technology]. [Link to the project or repository]
+- **Property Management System**: Property maintenance system ,  is an online platform designed to streamline the process of reporting and resolving maintenance issues within properties. built with Frontend: React, HTML, CSS, JavaScript
+Backend: Node.js, Express. [https://github.com/NompiloZondo-Dev/PMS.git]
+- **Ordering App**: This application allows customers to easily place orders for food ,and view menus . The app is built using modern web technologies, ensuring a seamless experience for customers.
+  https://github.com/NompiloZondo-Dev/jaysgrillhub.git]
+
 
 Feel free to check out more of my projects in the repositories section!
 
 ## Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- Website/Blog: [Your personal website or blog URL]
-- Email: [Your email address]
+- LinkedIn: https://www.linkedin.com/in/nompilo-zondo-b8757820a/
+- Email: nompilozondo44@gmail.com
 
 I'm always open to discussing new opportunities, collaborating on interesting projects, or just talking tech!
 
